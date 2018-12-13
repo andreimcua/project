@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	height: 100vh;
+}
+.sub-header {
+	text-align: center;
+	margin: 3% 0 3% 0;
+}
+
+button {
+	width: 100%	;
+}
+footer {
+	min-height: 8%;
+	text-align:center;
+	color:white;
+	padding-top: 10px;
+}

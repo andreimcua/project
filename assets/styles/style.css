@@ -1,0 +1,57 @@
+body {
+	height: 100%;
+	width: 100%;
+}
+.content {
+	text-align: center;
+	margin-top: 7%;
+}
+
+.bg { 
+  background-image: url(../images/Wallpaper3.jpg);
+  min-height: 85.7vh; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button-1{
+	margin-top: 5%;
+}
+.button-1:hover{
+	transition: 2s;
+	transform: rotateX(360deg);
+}
+.button {
+	margin-top: 12%;
+	border:2px black solid;
+	padding:20px 100px 20px 100px;
+	color:black;
+	border-radius: 4px;
+}
+
+@media only screen and (max-width: 600px) {
+	.bg {
+		min-height: 100vh;
+	}
+	h1 {
+		/*margin-top: 15%*/
+	}
+	.img-icon {
+		height: 35vh;
+		width: 40vh;
+	}
+}
+@media only screen and (min-width: 601px) and (max-width:1030px){
+	/*.bg {
+		min-height: 95vh;
+	}
+	h1, .h2, .linking {
+		font-size: 70px;
+		text-shadow: 3px 3px black;
+	}
+	.linking {
+		padding:2% 10% 2% 10%;
+	}*/
+
+
+}

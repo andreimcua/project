@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box; 
+}
+body {
+	min-height:100vh;
+}
+.header {
+}
+.about {
+	margin: 10% 0 5% 0;
+}
+.mission {
+	margin:5% 0 5% 0; 
+}
+.vision {
+	margin:5% 0 5% 0; 
+}
+footer {
+	height: 7%;
+}
+.footer {
+	margin-top: 5px;
+}
