@@ -17,10 +17,12 @@ section {
 footer {
 	height: 100%;
 	color:white;
-	background-color: black;
+	background-color: #EDCF6D;
 }
 nav {
-	background-color: none;
+	background-color: #EDCF6D;
+	text-shadow: 1px 1px black;
+	/*opacity: 0.1;*/
 	/*color:black;*/
 }
 .carousel1 {
@@ -41,3 +43,6 @@ a {
 .img-nav {
 	height: 40px;
 }
+/*.body {
+	background-color: #FFC72B;
+}*/

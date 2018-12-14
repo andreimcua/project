@@ -4,7 +4,7 @@ body {
 }
 .content {
 	text-align: center;
-	margin-top: 7%;
+	margin-top: 3%;
 }
 
 .bg { 
@@ -13,6 +13,16 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.img-content {
+	height: 150px;
+}
+.font-color {
+	color: #E59900;
+}
+.font-color-1 {
+	color:black;
 }
 .button-1{
 	margin-top: 5%;
@@ -23,7 +33,7 @@ body {
 }
 .button {
 	margin-top: 12%;
-	border:2px black solid;
+	border:2px #E59900 solid;
 	padding:20px 100px 20px 100px;
 	color:black;
 	border-radius: 4px;
